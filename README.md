@@ -1,6 +1,6 @@
-# myweb
+# TicTacToe
 
-A new Flutter project.
+A mini game
 
 ## Getting Started
 
